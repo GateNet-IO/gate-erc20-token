@@ -2,7 +2,7 @@ Gate ERC-20 token.
 
 An OpenZeppelin BurnableToken based token with 900M total supply.
 
-[For more information, see [GSX group website](https://www.gsxgroup.global/).
+For more information, see [GSX group website](https://www.gsxgroup.global/).
 
 The token is deployed at [0x9d7630adf7ab0b0cb00af747db76864df0ec82e4](https://etherscan.io/token/0x9d7630adf7ab0b0cb00af747db76864df0ec82e4).
 
