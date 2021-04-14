@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es2017",
+    "inlineSourceMap": true,
+    "outDir": "build/dist",
+    "sourceMap": true
+  },
+  "compileOnSave": false,
+  "exclude": [
+    "node_modules"
+  ],
+  "types": ["jest"],
+}
