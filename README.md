@@ -6,6 +6,10 @@ For more information, see [GATE Token website](https://gatetoken.io/).
 
 The token is deployed at [0x9d7630adf7ab0b0cb00af747db76864df0ec82e4](https://etherscan.io/token/0x9d7630adf7ab0b0cb00af747db76864df0ec82e4).
 
+# Audit
+
+[GATE Token Audit Report - 28.04.21 by Ville Sundell, Entersec](./audit.pdf)
+
 # Deploying
 
 ## Testnet
