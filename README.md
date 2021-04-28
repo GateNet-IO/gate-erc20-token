@@ -8,7 +8,7 @@ The token is deployed at [0x9d7630adf7ab0b0cb00af747db76864df0ec82e4](https://et
 
 # Audit
 
-[GATE Token Audit Report - 28.04.21 by Ville Sundell, Entersec](./audit.pdf)
+[GATE Token Audit Report - 28.04.21 by Ville Sundell](./audit.pdf)
 
 # Deploying
 
